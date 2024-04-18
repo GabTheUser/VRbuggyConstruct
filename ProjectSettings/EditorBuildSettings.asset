@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/bbuggyForOtchet.unity
+    guid: 056c28a162bcd0a449cef85875fb4ee4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 18a9c566206ac8647a26202c5a4a80cd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8d885be3571444f4db0e039cc93d80f7, type: 2}
